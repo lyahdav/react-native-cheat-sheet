@@ -7,6 +7,7 @@ And of course, feel free to contribute
 1. Install yarn: `brew install yarn`
 1. Start packager aka Metro Bundler aka webserver: `react-native start`
 1. Install package with yarn: `yarn add [package]`
+1. [Hot vs Live reload](https://facebook.github.io/react-native/blog/2016/03/24/introducing-hot-reloading.html#hot-reloading): Use hot reload, you won't lose any state in view hierarchy except for component that needs to get re-rendered. 
 
 # How to add custom fonts to a React Native app in Xcode
 
