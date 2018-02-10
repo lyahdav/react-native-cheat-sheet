@@ -3,6 +3,10 @@ Hope it helps and makes your time with React Native even more fun!
 
 And of course, feel free to contribute
 
+# Common commands
+1. Start packager aka Metro Bundler aka webserver: `react-native start`
+1. Install package with yarn: `yarn add [package]`
+
 # How to add custom fonts to a React Native app in Xcode
 
 1. Create a new group `Fonts` within your Xcode project
